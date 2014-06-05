@@ -17,7 +17,7 @@ This extension all Fluid-ViewHelper and its usage is demonstrated. It will be us
 extbase_kickstarter
 ----------------------------------
 
-The extbase kickstarter allows a quick entrance in the programming of extbase extensions by automating many repetitive tasks. By the deadline of this book it runs instable but the developer works hardly on an improved version. So we recommend it to take a look. The extbase kickstarter can be found in the subversion *https://svn.typo3.org/TYPO3v4/Extensions/extbase_kickstarter/trunk/* or the latest stable version in TER with the extension key *extbase_kickstarter*.
+The extbase kickstarter allows a quick entrance in the programming of extbase extensions by automating many repetitive tasks. By the deadline of this book it runs instable but the developer works hardly on an improved version. So we recommend it to take a look. The extbase kickstarter can be found in the subversion *https://svn.typo3.org/TYPO3v4/Extensions/extbase_kickstarter/trunk/* or the latest stable version in TER with the extension key *extbase_kickstarter*. This extension was renamed: See hhttp://typo3.org/extensions/repository/view/extension_builder
 
 doc_extbase
 -----------------
